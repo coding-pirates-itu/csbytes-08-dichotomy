@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dichotomy", "Dichotomy\Dichotomy.csproj", "{4C2919A1-FC57-492F-9E3A-73F7AF437480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C2919A1-FC57-492F-9E3A-73F7AF437480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2919A1-FC57-492F-9E3A-73F7AF437480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2919A1-FC57-492F-9E3A-73F7AF437480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2919A1-FC57-492F-9E3A-73F7AF437480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FEA992D-E9DD-4A07-A472-2216121B2467}
+	EndGlobalSection
+EndGlobal
